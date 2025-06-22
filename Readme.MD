@@ -81,7 +81,7 @@ Seja muito bem-vindo(a) ao meu perfil!
 ---
 
 ### 🌱 Atualmente aprendendo  
-- 🖥️ Desenvolvimento Desktop com **.NET MAUI**  
+- 🖥️ Desenvolvimento back-end com foco em **C# | JAVA**  
 - 📱 Desenvolvimento Mobile  
 - 🗄️ Modelagem e gestão de **Banco de Dados (SQL Server)**  
 - 🚀 APIs REST com **C# e .NET**  
@@ -107,8 +107,7 @@ Seja muito bem-vindo(a) ao meu perfil!
 ---
 
 ### 🚀 Vamos nos conectar!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guigaorapha07@gmail.com)
 
 ---
 
