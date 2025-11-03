@@ -3,7 +3,7 @@ Seja muito bem-vindo(a) ao meu perfil!
 
 - 🎯 Atualmente estudando Programação na **Etec Horácio Augusto da Silveira**  
 - 🚀 Focado em aprender **C# | Java | .NET MAUI | Banco de Dados (SQL)**  
-- 💻 Estou no **2º módulo** e sempre buscando novos desafios e aprendizados  
+- 💻 Estou no **3º módulo** e sempre buscando novos desafios e aprendizados  
 - 🔥 Apaixonado por tecnologia, desenvolvimento e resolver problemas através do código  
 
 ---
